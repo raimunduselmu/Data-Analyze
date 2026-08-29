@@ -48,13 +48,13 @@ Tujuan utama analisis:
 ├── Visualisasi Saham.ipynb          # Notebook analisis lengkap
 ├── requirements.txt                 # Daftar dependensi library
 └── README.md                        # Dokumentasi proyek
-
-
+```
+---
 
 ## 📊 Hasil Analisis & Visualisasi
 
 ### 1. Pergerakan Harga Historis Saham
-Analisis dilakukan pada 5 ticker saham (**ESTC, GAP, SOLS, TRLV, WDAY**) dalam rentang waktu **6 April 2026 – 28 Agustus 2026** (101 hari bursa).
+Analisis dilakukan pada 5 ticker saham (**ESTC, GAP, SOLS, TRLV, WDAY**) dalam rentang waktu **6 April 2026 – 28 Agustus 2026** (bentar hari bursa).
 
 | Ticker | Harga Terendah (Min) | Harga Rata-Rata (Mean) | Harga Tertinggi (Max) | Volatilitas Harga (Std Dev) |
 | :--- | :---: | :---: | :---: | :---: |
