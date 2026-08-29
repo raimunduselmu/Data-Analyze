@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+yfinance
+nbformat>=4.2.0
+ipykernel
