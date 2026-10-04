@@ -1,6 +1,6 @@
 # 📈 Analisis Portofolio Saham & Efficient Frontier dengan Simulasi Monte Carlo
 
-Repositori ini berisi proyek analisis kuantitatif dan optimasi portofolio multi-aset menggunakan pendekatan **Simulasi Monte Carlo**. Proyek ini memodelkan ribuan kombinasi bobot portofolio acak untuk memetakan kurva *Efficient Frontier*, mencari alokasi bobot optimal berdasarkan rasio *Risk-to-Return (Sharpe Ratio)*, serta meminimalkan volatilitas risiko investasi.
+Repositori ini berisi proyek analisis kuantitatif dan optimasi portofolio multi-aset menggunakan pendekatan **Simulasi Monte Carlo**. Proyek ini memodelkan ribuan kombinasi bobot portofolio acak untuk memetakan kurva *Efficient Frontier*, mencari alokasi bobot optimal berdasarkan rasio *Risk-to-Return (Sharpe Ratio)*, serta meminimalkan volatilitas risiko investasi. Project ini juga dikerjakan guna untuk menyelesaikan Kewajiban Tugas Akhir Mata Kuliah Dasar Pemograman Prodi Sains Data Universitas Sebelas Maret 
 
 ---
 
